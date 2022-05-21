@@ -1,0 +1,9 @@
+vertx-boot:
+  http:
+    server:
+      deployment-options:
+        instances: 1
+      options:
+        log-activity: true
+the-bean:
+  id: 10
